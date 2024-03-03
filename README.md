@@ -38,7 +38,7 @@
 
 ## 수상경력
 - 금융보안원, [FSI Data Challenge 2023] 트랙B '지역별 라이프스타일 분석을 통한 전기차 구매 고객 예측', 우수상 (2023.10)
-- World Quant, Alphaton-[Korea Partner] 3등 (2023)
+- World Quant, Alphaton-[Korea Partner], 3등 (2023)
 - BDA X ASCEND 비트코인 변동성 예측 공모전, 우수상 (2024)
 
 ## 활동경력
