@@ -22,7 +22,7 @@
 - KREAM 데이터를 통한 신발 리셀가 예측 [(2023)](https://github.com/donghui-0126/mini-project/tree/main/shoes-project) 
 - Machine-Learning-for-Factor-Investing [(2023)](https://github.com/donghui-0126/Machine-Learning-for-Factor-Investing) 
 - 강화학습을 이용한 단타매매 봇 [(2023~)](https://github.com/donghui-0126/crypto-scalping-RL-Agent)
-    - 강화학습을 위한 Chart env 구성 [(2024~)][https://github.com/donghui-0126/Chart-Env]
+    - 강화학습을 위한 Chart env 구성 [(2024~)](https://github.com/donghui-0126/Chart-Env)
   
 ## 코드 낙서장
 - Open_CV 라이브러리 실습 [GO!](https://github.com/donghui-0126/practice_openCV)
