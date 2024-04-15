@@ -13,7 +13,7 @@
 2. 대규모 시계열 데이터(틱데이터/LOB데이터)가공 프로세스 구축
 3. Trading-RL 학습하기
 4. 알고리즘 트레이딩 실거래 해보기
-5. 틱데이터 수집을 위한 Rust 공부하기 [Go!](https://github.com/donghui-0126/Hello-RUST-World)
+5. 틱데이터 수집/분석을 위한 Rust 공부하기 [Go!](https://github.com/donghui-0126/Hello-RUST-World)
 6. SDE/수리통계학/시계열 공부하기 
 
 ## 프로젝트
