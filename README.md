@@ -9,15 +9,15 @@
 
 ## 2024년 계획
 
-1. Trading-RL 학습하기
+1. Trading-RL 학습하기 - In private repo
     - RL을 활용한 알고리즘 트레이딩 실거래 해보기
-2. 틱데이터 수집/분석을 위한 Rust 공부하기 [Go!](https://github.com/donghui-0126/Hello-RUST-World)
+2. 틱데이터 수집/분석을 위한 Rust 공부하기 - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
     - 알고리즘 트레이딩을 위한 DB 공부 및 구축
     - 대규모 시계열 데이터(틱데이터/LOB데이터)가공/분석 프로세스 구축
-3. SDE/수리통계학/시계열/수치해석 공부하기
-4. 시계열 분석 프로젝트 하기 (Dune을 활용한 시계열 분석, 크립토 생태계 상관관계 분석)
+3. 시계열 분석 프로젝트 하기 (Dune을 활용한 시계열 분석, 크립토 생태계 상관관계 분석)
     - Defi 생태계 공부하기
     - Dune 사용해보기
+4. SDE/수리통계학/시계열/수치해석 공부하기
 
 ## 프로젝트
 - NBA에서 가장 승리에 도움이 되는 stat은 무엇일까? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
