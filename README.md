@@ -37,6 +37,7 @@
 - 자료구조 공부/실습 [GO!](https://github.com/donghui-0126/Data-structure)
 - 경영과학 수업 예제 코딩 [GO!](https://github.com/donghui-0126/Operation_research)
 - Django 프레임워크 공부/실습 [GO!](https://github.com/donghui-0126/study-django)</b>
+- Hello, Rust-World! [Go!](https://github.com/donghui-0126/Hello-RUST-World)
 
 ## 연구활동
 - 손형진, 임동휘, 한영우. (2023). 강화학습을 이용한 포트폴리오 투자 프로세스 최적화에 대한 연구. 한국정보처리학회 학술대회논문집, 30(2), 961-962.
