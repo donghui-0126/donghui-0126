@@ -11,12 +11,15 @@
 
 1. Trading-RL 학습하기 - [In private repo](https://github.com/donghui-0126/RL4MONEY)
     - RL을 활용한 알고리즘 트레이딩 실거래 해보기
+      
 2. 틱데이터 수집/분석을 위한 Rust 공부하기 - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
     - 알고리즘 트레이딩을 위한 DB 공부 및 구축
     - 대규모 시계열 데이터(틱데이터/LOB데이터)가공/분석 프로세스 구축
+      
 3. 시계열 분석 프로젝트 하기 (Dune을 활용한 시계열 분석, 크립토 생태계 상관관계 분석)
     - Defi 생태계 공부하기
     - Dune 사용해보기
+      
 4. SDE/수리통계학/시계열/수치해석 공부하기
 
 ## 프로젝트
