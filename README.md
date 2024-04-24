@@ -7,7 +7,7 @@
 - 강화학습을 사용한 문제 해결
 - 강화학습을 이용한 알고리즘 트레이딩
   
-<b>KeyWord: RL, Algorithm-Trading, Data Analysis, Finance, Operation-Research </b>
+<b>KeyWord: RL, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
 
 ## 2024년 계획
 
