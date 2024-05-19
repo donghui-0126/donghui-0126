@@ -11,7 +11,7 @@
 
 ## 2024년 계획
 
-1. Trading-RL 학습하기 - [IN PRIVATE REPOSITORY:RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
+1. Trading-RL 학습하기 - [In Private Repository - RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
     - RL을 활용한 알고리즘 트레이딩 실거래 해보기
       
 2. 틱데이터 수집/분석을 위한 Rust 공부하기 - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
