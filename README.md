@@ -34,7 +34,7 @@
 - 강화학습을 이용한 단타매매 봇 [(2023~)](https://github.com/donghui-0126/crypto-scalping-RL-Agent)
     - 강화학습을 위한 Chart env 구성 [GO!](https://github.com/donghui-0126/Chart-Env)
     - 기존 gym-Chart-env tuning [GO!](https://github.com/donghui-0126/Gym-Trading-Env)
-- 행복의 요인 인과분석 [GO!](https://github.com/donghui-0126/Causal-Inference-Factor-of-Happiness)
+- 행복의 요인 인과분석 [(2024)](https://github.com/donghui-0126/Causal-Inference-Factor-of-Happiness)
   
 ## 코드 낙서장
 - Open_CV 라이브러리 실습 [GO!](https://github.com/donghui-0126/practice_openCV)
