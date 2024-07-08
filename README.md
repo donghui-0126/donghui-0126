@@ -24,6 +24,21 @@
       
 4. SDE/수리통계학/시계열/수치해석 공부하기
 
+## TODO List
+1. Binance Tick Data EDA
+   - Orderbook Reconstruct
+   - Matching Engine
+2. Binance Tick Data Analysis
+   - 시장미시구조 데이터 분석
+3. Train RL Agent
+   - Tick Agent
+   - 5min Agent
+   - 15min Agent
+   - 30min Agent
+   - 60min Agent
+4. RL Agent Trading on Nautilus Trader
+5. Tick Agent Trading on ??? Platform 
+
 ## 프로젝트
 - NBA에서 가장 승리에 도움이 되는 stat은 무엇일까? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
 - 상추의 생육 환경 생성 AI 경진대회[(2022)](https://github.com/donghui-0126/machine-learning/tree/main/dacon/%EC%83%81%EC%B6%94%EC%9D%98%20%EC%83%9D%EC%9C%A1%20%ED%99%98%EA%B2%BD%20%EC%83%9D%EC%84%B1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
