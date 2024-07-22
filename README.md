@@ -1,17 +1,18 @@
-# 안녕하세요! 👋 저의 GitHub에 오신 것을 환영합니다!
+# HI! 👋 Welcome my Github
 
-저는 강화학습/알고리즘 트레이딩에 관심이 많은 대학생입니다!
+I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 
 ## 관심 분야
 
-- 강화학습을 사용한 문제 해결
-- 강화학습을 이용한 알고리즘 트레이딩
+- Optimization By RL
+- Algorithm Trading By RL
+- Constuct Algorithm Trading Platform
   
 <b>KeyWord: RL, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
 
-## 2024년 계획
+## 2024 Plan
 
-1. Trading-RL 학습하기 - [In Private Repository - RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
+1. RL4Money project - [In Private Repository - RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
     - RL을 활용한 알고리즘 트레이딩 실거래 해보기
       
 2. 틱데이터 수집/분석을 위한 Rust 공부하기 - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
