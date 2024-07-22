@@ -2,7 +2,7 @@
 
 I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 
-## 관심 분야
+## Interest
 
 - Optimization By RL
 - Algorithm Trading By RL
@@ -30,13 +30,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
    - Orderbook Reconstruct
    - Matching Engine
 2. Binance Tick Data Analysis
-   - 시장미시구조 데이터 분석
-3. Train RL Agent
-   - Tick Agent
-   - 5min Agent
-   - 15min Agent
-   - 30min Agent
-   - 60min Agent
+3. Traning RL Scalping Agent 
 4. RL Agent Trading on Nautilus Trader
 5. Tick Agent Trading on ??? Platform 
 
