@@ -12,12 +12,11 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 
 ## 2024 Plan
 
-1. RL4Money project - [In Private Repository - RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
-    - RL을 활용한 알고리즘 트레이딩 실거래 해보기
+1. RL4MONEY project - [In Private Repository - RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
+    - Algorithm Trading with Reinforcement Learning 
       
-2. 틱데이터 수집/분석을 위한 Rust 공부하기 - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
-    - 알고리즘 트레이딩을 위한 DB 공부 및 구축
-    - 대규모 시계열 데이터(틱데이터/LOB데이터)가공/분석 프로세스 구축
+2. Study RUST - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
+    - To Construct Algorithm Trading Platform
       
 ## TODO List
 1. Binance Tick Data EDA
@@ -28,29 +27,29 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 4. RL Agent Trading on Nautilus Trader
 5. Tick Agent Trading on ??? Platform 
 
-## 프로젝트
-- NBA에서 가장 승리에 도움이 되는 stat은 무엇일까? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
-- 상추의 생육 환경 생성 AI 경진대회[(2022)](https://github.com/donghui-0126/machine-learning/tree/main/dacon/%EC%83%81%EC%B6%94%EC%9D%98%20%EC%83%9D%EC%9C%A1%20%ED%99%98%EA%B2%BD%20%EC%83%9D%EC%84%B1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
-- NLP모델 파인튜닝을 통한 감성분석 [(KHUDA 3nd, 2023)](https://github.com/donghui-0126/mini-project/tree/main/khuda)
-- TA기반 주식 가상 거래  [(KHUDA 3nd, 2023)](https://github.com/donghui-0126/team1_fin_portfolio-ta/tree/main)
-- KREAM 데이터를 통한 신발 리셀가 예측 [(2023)](https://github.com/donghui-0126/mini-project/tree/main/shoes-project) 
+## Project
+- What is important Stats in NBA? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
+- Dacon: 상추의 생육 예측 AI[(2022)](https://github.com/donghui-0126/machine-learning/tree/main/dacon/%EC%83%81%EC%B6%94%EC%9D%98%20%EC%83%9D%EC%9C%A1%20%ED%99%98%EA%B2%BD%20%EC%83%9D%EC%84%B1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- Sentiment Analysis by BERT [(KHUDA 3nd, 2023)](https://github.com/donghui-0126/mini-project/tree/main/khuda)
+- Virtual Trading Based on TA  [(KHUDA 3nd, 2023)](https://github.com/donghui-0126/team1_fin_portfolio-ta/tree/main)
+- Predict Resell Price of Shoes By KREAM  [(2023)](https://github.com/donghui-0126/mini-project/tree/main/shoes-project) 
 - Machine-Learning-for-Factor-Investing [(2023)](https://github.com/donghui-0126/Machine-Learning-for-Factor-Investing) 
-- 강화학습을 이용한 단타매매 봇 [(2023~)](https://github.com/donghui-0126/crypto-scalping-RL-Agent)
-    - 강화학습을 위한 Chart env 구성 [GO!](https://github.com/donghui-0126/Chart-Env)
-    - 기존 gym-Chart-env tuning [GO!](https://github.com/donghui-0126/Gym-Trading-Env)
-- 행복의 요인 인과분석 [(2024)](https://github.com/donghui-0126/Causal-Inference-Factor-of-Happiness)
+- RL Scalping Agent [(2023~)](https://github.com/donghui-0126/crypto-scalping-RL-Agent)
+    - Chart env Construction [GO!](https://github.com/donghui-0126/Chart-Env)
+    - gym-Chart-env tuning [GO!](https://github.com/donghui-0126/Gym-Trading-Env)
+- Causal Inference: Factor of Happiness [(2024)](https://github.com/donghui-0126/Causal-Inference-Factor-of-Happiness)
   
-## 코드 낙서장
-- Open_CV 라이브러리 실습 [GO!](https://github.com/donghui-0126/practice_openCV)
-- 백준 알고리즘 풀이 [GO!](https://github.com/donghui-0126/baekjoon-algorithm)
-- 머신러닝/딥러닝 공부 [GO!](https://github.com/donghui-0126/machine-learning)
-- 강화학습 알고리즘 구현 [GO!](https://github.com/donghui-0126/Reinforce-Learning)
-- 자료구조 공부/실습 [GO!](https://github.com/donghui-0126/Data-structure)
-- 경영과학 수업 예제 코딩 [GO!](https://github.com/donghui-0126/Operation_research)
-- Django 프레임워크 공부/실습 [GO!](https://github.com/donghui-0126/study-django)</b>
+## Code Archive
+- Open_CV Practice [GO!](https://github.com/donghui-0126/practice_openCV)
+- Baekjoon Algorithm Study [GO!](https://github.com/donghui-0126/baekjoon-algorithm)
+- Machine Learning/Deep Learning [GO!](https://github.com/donghui-0126/machine-learning)
+- RL Algorithm [GO!](https://github.com/donghui-0126/Reinforce-Learning)
+- Data Structure [GO!](https://github.com/donghui-0126/Data-structure)
+- Operation Research Practice [GO!](https://github.com/donghui-0126/Operation_research)
+- Django Practice [GO!](https://github.com/donghui-0126/study-django)</b>
 - Hello, Rust-World! [Go!](https://github.com/donghui-0126/Hello-RUST-World)
 
-## 연구활동
+## Research
 - 손형진, 임동휘, 한영우. (2023). 강화학습을 이용한 포트폴리오 투자 프로세스 최적화에 대한 연구. 한국정보처리학회 학술대회논문집, 30(2), 961-962.
 - 경희대학교 AIMS LABS 학부연구생 (2024.01~)
   - 강화학습을 사용한 조합최적화(배달동선 최적화)  
@@ -61,7 +60,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 - World Quant, Alphaton-[Korea Partner], 3등 (2023)
 - BDA X ASCEND 비트코인 변동성 예측 공모전, 우수상 (2024)
 
-## 활동경력
+## Award
 - 경희대 데이터분석/AI 동아리 KHUDA 3기 수료 (2023.01-2023.07)
   - 금융 트랙 수료
 - 경희대 데이터분석/AI 동아리 KHUDA 4기 수료 (2023.08-2023.12)
@@ -70,9 +69,8 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 - 경희대학교 AIMS LABS 학부연구생 (2024.01~)
 - 모두의 연구소 PISTAR LAB (2024.03~)
 
-## 연락하기
 
-궁금한 점이 있다면 언제든지 연락해주세요!
 
-이메일: lukedonghui@gmail.com
+
+Email: lukedonghui@gmail.com
 
