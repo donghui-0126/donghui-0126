@@ -14,10 +14,11 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 
 1. RL4MONEY project - [In Private Repository - RL4MONEY](https://github.com/donghui-0126/RL4MONEY)
     - Algorithm Trading with Reinforcement Learning 
-    - Trading 10 symbol on binance
       
 2. Study RUST - [Go!](https://github.com/donghui-0126/Hello-RUST-World)
     - To Construct Algorithm Trading Platform
+
+3. Trading 10 symbols on Binance
       
 ## TODO List
 1. Binance Tick Data EDA
