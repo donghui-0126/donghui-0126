@@ -52,24 +52,26 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 - Hello, Rust-World! [Go!](https://github.com/donghui-0126/Hello-RUST-World)
 
 ## Research
-- 손형진, 임동휘, 한영우. (2023). 강화학습을 이용한 포트폴리오 투자 프로세스 최적화에 대한 연구. 한국정보처리학회 학술대회논문집, 30(2), 961-962.
-- 경희대학교 AIMS LABS 학부연구생 (2024.01~)
-  - 강화학습을 사용한 조합최적화(배달동선 최적화)  
+- Hyeong-jin Son, Lim Donhui, & Young-woo Han. (2023). Reinforcement learning portfolio optimization based on portfolio theory. 한국정보처리학회 학술대회논문집, 30(2), 961-962.
+- KHU AIMS LABS Undergraduate researcher (2024.01~)
+  - Optimizing Combinations with Reinforcement Learning (TSP, VRP)  
 - 모두의 연구소 PISTAR LAB (2024.03~)
 
-## 수상경력
+## Award
 - 금융보안원, [FSI Data Challenge 2023] 트랙B '지역별 라이프스타일 분석을 통한 전기차 구매 고객 예측', 우수상 (2023.10)
 - World Quant, Alphaton-[Korea Partner], 3등 (2023)
 - BDA X ASCEND 비트코인 변동성 예측 공모전, 우수상 (2024)
 
-## Award
-- 경희대 데이터분석/AI 동아리 KHUDA 3기 수료 (2023.01-2023.07)
-  - 금융 트랙 수료
-- 경희대 데이터분석/AI 동아리 KHUDA 4기 수료 (2023.08-2023.12)
-  - 금융 트랙 수료
+## Experience
+- 경희대 데이터분석/AI 동아리 KHUDA 3기(Financial Track) 수료 (2023.01-2023.07)
+  - KHU Data Analysis/AI Club
+- 경희대 데이터분석/AI 동아리 KHUDA 4기(Financial Track) 수료 (2023.08-2023.12)
+  - KHU Data Analysis/AI Club
 - 금융공학 학회 UFEA 36기
-- 경희대학교 AIMS LABS 학부연구생 (2024.01~)
+  - Study Financial Engineering 
+- KHU AIMS LABS Undergraduate researcher (2024.01~)
 - 모두의 연구소 PISTAR LAB (2024.03~)
+  - Study Algorithm Trading With AI
 
 
 
