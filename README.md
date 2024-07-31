@@ -1,4 +1,4 @@
-# HI! 👋 Welcome my Github
+# 안녕하세요! 👋 Welcome my Github
 
 I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 
