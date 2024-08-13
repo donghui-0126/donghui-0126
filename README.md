@@ -8,7 +8,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 - Algorithm Trading By RL
 - Constuct Algorithm Trading Platform
   
-<b>KeyWord: RL, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
+<b>KeyWord: Reinforcement Learning, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
 
 ## 2024 Plan
 
