@@ -22,12 +22,11 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
       
 ## TODO List
 1. Binance Tick Data EDA 
-   - Orderbook Reconstruct (95% complete)
+   - Orderbook Reconstruct (complete)
    - Matching Engine (hold off)
-2. Tick Data Analysis
-3. Traning RL Scalping Agent 
-4. RL Agent Trading on Nautilus Trader
-5. Tick Agent Trading on ??? Platform 
+2. Tick Data Analysis (on going)
+3. Train RL Trading Agent
+4. Trading! 
 
 ## Project
 - What is important Stats in NBA? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
