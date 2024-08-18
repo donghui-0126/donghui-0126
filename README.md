@@ -21,10 +21,10 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 3. Trading 10 symbols on Binance
       
 ## TODO List
-1. Binance Tick Data EDA
-   - Orderbook Reconstruct
-   - Matching Engine
-2. Binance Tick Data Analysis
+1. Binance Tick Data EDA 
+   - Orderbook Reconstruct (95% complete)
+   - Matching Engine (hold off)
+2. Tick Data Analysis
 3. Traning RL Scalping Agent 
 4. RL Agent Trading on Nautilus Trader
 5. Tick Agent Trading on ??? Platform 
