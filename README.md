@@ -22,7 +22,9 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
       
 ## TODO List
 1. Binance Tick Data EDA 
-   - Orderbook Reconstruct (complete)
+   - Orderbook Reconstruct
+     - Online Websocket (complete | 2024.08.18)
+     - Offline Dataset
    - Matching Engine (hold off)
 2. Tick Data Analysis (on going)
 3. Train RL Trading Agent
