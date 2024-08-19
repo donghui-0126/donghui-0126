@@ -25,7 +25,8 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
    - Orderbook Reconstruct
      - Online Websocket (complete | 2024.08.18)
      - Offline Dataset
-   - Matching Engine (hold off)
+        - Data Engineering to Tick Data Handling   
+   - ~~Matching Engine~~ (hold off)
 2. Tick Data Analysis (on going)
 3. Train RL Trading Agent
 4. Trading! 
