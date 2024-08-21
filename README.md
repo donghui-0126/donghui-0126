@@ -24,8 +24,9 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 1. Binance Tick Data EDA 
    - Orderbook Reconstruct
      - Online Websocket (complete | 2024.08.18)
-     - Offline Dataset
-        - Data Engineering to Tick Data Handling   
+     - Offline Dataset Simulation
+        - Data Engineering to Tick Data Handling
+      - Data Storage
    - ~~Matching Engine~~ (hold off)
 2. Tick Data Analysis (on going)
 3. Train RL Trading Agent
