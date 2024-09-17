@@ -77,7 +77,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 - 금융공학 학회 UFEA 36기
   - Study Financial Engineering 
 - KHU AIMS LABS Undergraduate researcher (2024.01~08)
-- 모두의 연구소 PISTAR LAB (2024.03~)
+- 모두의 연구소 PISTAR LAB (2024.03~08)
   - Study Algorithm Trading With AI
 
 
