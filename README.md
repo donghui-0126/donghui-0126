@@ -15,7 +15,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 1. RL4Trading project - [In Private Repository - RL4Trading](https://github.com/donghui-0126/RL4Trading)
     - Algorithm Trading with Reinforcement Learning 
       
-2. Study RUST - [Go~~lang~~](https://github.com/donghui-0126/Hello-RUST-World)
+2. Study RUST - [Go](https://github.com/donghui-0126/Hello-RUST-World)
     - To Construct Algorithm Trading Platform
 
 3. Trading 10 symbols on Binance
@@ -28,8 +28,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
      - Offline Dataset Simulation (complete | 2024.08.28) ~ Rust
         - Data Engineering to Tick Data Handling (complete | 2024.08.28) ~ python & Rust
       - Data Storage (complete | 2024.08.28) ~ python & Rust
-   - ~~Matching Engine~~ (hold off)
-2. Tick Data Analysis (on going) ~ python
+2. Tick Data Analysis & EDA Pipeline(on going) ~ python & Rust
 3. Train Trading AI ~ python & Rust
 4. Backtest Engine
 5. Trading! 
