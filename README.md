@@ -29,7 +29,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
         - Data Engineering to Tick Data Handling (complete | 2024.08.28) ~ python & Rust
       - Data Storage (complete | 2024.08.28) ~ python & Rust
 2. Tick Data Analysis & EDA Pipeline(complete | 2024.09.29) ~ python & Rust
-3. Train Trading AI ~ python & Rust
+3. EDA / Train Trading AI(On going) ~ python & Rust
 4. Backtest Engine
 5. Trading! 
 
