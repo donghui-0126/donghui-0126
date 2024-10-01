@@ -29,9 +29,8 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
         - Data Engineering to Tick Data Handling (complete | 2024.08.28) ~ python & Rust
       - Data Storage (complete | 2024.08.28) ~ python & Rust
 2. Tick Data Analysis & EDA Pipeline(complete | 2024.09.29) ~ python & Rust
-3. EDA / Train Trading AI(On going) ~ python & Rust
-4. Backtest Engine
-5. Trading! 
+3. EDA & Train Trading AI & Backtest (On going) ~ python & Rust
+4. Trading! 
 
 ## Project
 - What is important Stats in NBA? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
