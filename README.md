@@ -13,12 +13,12 @@ I'm interested in Algorithm Trading, Reinforcement Learning and Rust.
 ## 2024 Plan
 
 1. RL4Trading project - [In Private Repository - RL4Trading](https://github.com/donghui-0126/RL4Trading)
-    - Algorithm Trading with Reinforcement Learning 
+    - Algorithm Trading with AI 
       
 2. Study RUST - [Go](https://github.com/donghui-0126/Hello-RUST-World)
     - To Construct Algorithm Trading Platform
 
-3. Trading 10 symbols on Binance
+3. Trading 5 symbols on Binance
       
 ## TODO List
 1. Binance Tick Data EDA 
