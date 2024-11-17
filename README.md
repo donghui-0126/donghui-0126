@@ -14,11 +14,10 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis and R
 
 1. AI4Trading project - [In Private Repository - AI4Trading](https://github.com/donghui-0126/AI4Trading)
     - Algorithm Trading with AI 
+    - Trading 5 symbols on Binance
       
 2. Study RUST - [Go](https://github.com/donghui-0126/Hello-RUST-World)
     - To Construct Algorithm Trading Platform
-
-3. Trading 5 symbols on Binance
       
 ## TODO List
 1. Binance Tick Data EDA 
