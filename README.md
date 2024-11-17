@@ -30,7 +30,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis and R
       - Data Storage (complete | 2024.08.28) ~ python & Rust
 2. Tick Data Analysis & EDA Pipeline(complete | 2024.09.29) ~ python & Rust
 3. EDA & Train Trading AI & Backtest
-   - Feature Store (Complete) ~ Rust
+   - Feature Store (Complete | 2024.10.11) ~ Rust
    - EDA & Feature-Engineering (Complete | 2024.11.11) ~ python
    - Model Training (On going)
    - BackTest 
