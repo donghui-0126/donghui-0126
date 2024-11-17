@@ -5,14 +5,14 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis and R
 ## Interest
 
 - Optimization By RL
-- Algorithm Trading By RL
+- Algorithm Trading with AI
 - Constuct Algorithm Trading Platform
   
 <b>KeyWord: Reinforcement Learning, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
 
 ## 2024 Plan
 
-1. RL4Trading project - [In Private Repository - RL4Trading](https://github.com/donghui-0126/AI4Trading)
+1. AI4Trading project - [In Private Repository - RL4Trading](https://github.com/donghui-0126/AI4Trading)
     - Algorithm Trading with AI 
       
 2. Study RUST - [Go](https://github.com/donghui-0126/Hello-RUST-World)
