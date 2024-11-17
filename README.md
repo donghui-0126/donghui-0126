@@ -12,7 +12,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis and R
 
 ## 2024 Plan
 
-1. RL4Trading project - [In Private Repository - RL4Trading](https://github.com/donghui-0126/RL4Trading)
+1. RL4Trading project - [In Private Repository - RL4Trading](https://github.com/donghui-0126/AI4Trading)
     - Algorithm Trading with AI 
       
 2. Study RUST - [Go](https://github.com/donghui-0126/Hello-RUST-World)
