@@ -47,6 +47,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis and R
     - Chart env Construction [GO!](https://github.com/donghui-0126/Chart-Env)
     - gym-Chart-env tuning [GO!](https://github.com/donghui-0126/Gym-Trading-Env)
 - Causal Inference: Factor of Happiness [(2024)](https://github.com/donghui-0126/Causal-Inference-Factor-of-Happiness)
+- AI4Trading (2024 | In Private Repository)
   
 ## Code Archive
 - Open_CV Practice [GO!](https://github.com/donghui-0126/practice_openCV)
