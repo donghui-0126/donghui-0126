@@ -31,8 +31,9 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis and R
 3. EDA & Train Trading AI & Backtest
    - Feature Store (Complete | 2024.10.11) ~ Rust
    - EDA & Feature-Engineering (Complete | 2024.11.11) ~ python
-   - Model Training (On going)
-   - BackTest 
+   - Model Training (Complete PoC)
+   - BackTest
+     - Orderbook Base Backtest (Ongoing)
 5. Trading! 
 
 ## Project
