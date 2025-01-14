@@ -18,7 +18,7 @@ I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis, Juli
       
 2. Immigration Rust to Julia
    - From 2025, I chose Julia over Rust because I thought Rust would have difficulties with extensibility.
-     
+   - [In Private Repository - Hello-Julia-World](https://github.com/donghui-0126/Hello-Julia-World)
 ## TODO List
 - Orderbook Reconstruct | Rust to Julia
 - Online Websocket | Julia
