@@ -1,6 +1,6 @@
 # 안녕하세요! 👋 Welcome my Github
 
-I'm interested in Algorithm Trading, Reinforcement Learning, Data Analysis, Julia and Rust.
+I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passionate about learning itself.
 
 ## Interest
 
