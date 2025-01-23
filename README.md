@@ -8,7 +8,7 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 - Algorithm Trading with AI
 - Constuct Algorithm Trading Platform
   
-<b>KeyWord: Reinforcement Learning, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
+<b>KeyWord: AI, Algorithm-Trading, Data-Analysis, Finance, Operation-Research </b>
 
 ## 2025 Plan
 1. AI4Trading project - [In Private Repository - AI4Trading](https://github.com/donghui-0126/AI4Trading)
