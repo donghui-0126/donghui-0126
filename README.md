@@ -64,7 +64,7 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 - World Quant, Alphaton-[Korea Partner], 3등 (2023)
 - BDA X ASCEND 비트코인 변동성 예측 공모전, 우수상 (2024)
   - Prediction of bitcoin Volatility
-- Jane Street, Real-Time Market Data Forecasting Competition on Kaggle, Bronze Medal in Public Score (2024.01)
+- Jane Street, Real-Time Market Data Forecasting Competition on Kaggle, Bronze Medal in Public Score (2025.01)
 
 ## Experience
 - 경희대 데이터분석/AI 동아리 KHUDA 3기(Financial Track) 수료 (2023.01-2023.07)
