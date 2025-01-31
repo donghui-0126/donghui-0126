@@ -14,20 +14,12 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 1. AI4Trading project - [In Private Repository - AI4Trading](https://github.com/donghui-0126/AI4Trading)
     - Algorithm Trading with AI (from 2024)
     - Trading 5 symbols on Binance (from 2024)
-    - Market Making, Arbitrage Strategy with AI
+    - HFT with AI
       
 2. Immigration Rust to Julia
    - From 2025, I chose Julia over Rust because I thought Rust would have difficulties with extensibility.
    - [In Private Repository - Hello-Julia-World](https://github.com/donghui-0126/Hello-Julia-World)
-## TODO List
-- Orderbook Reconstruct | Rust to Julia
-- Online Websocket | Julia
-- Offline Dataset Simulation | Rust to Julia
-- Tick Data Analysis & EDA Pipeline
-- Feature Store | Rust to Julia
-- Model Training (Complete PoC | 2024.12.20)
-- BackTest
-- Trading! 
+
 
 ## Project
 - What is important Stats in NBA? [(2022)](https://github.com/donghui-0126/mini-project/blob/main/What%20is%20important%20NBA%20stats%20_2022%20%EC%9B%B9%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%85%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb) </span>
