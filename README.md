@@ -68,7 +68,15 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 - 모두의 연구소 PISTAR LAB (2024.03~08)
   - Study Algorithm Trading With AI
 
-
+## 개발방법 
+- 객체별로 단위테스트를 진행해야함.  
+- 들어오는 데이터의 타입과 형식을 이해해야함.
+- 들어오는 데이터를 어떤 흐름으로 처리할 것인지 알아야함
+  - 처리하는 데이터 log의 흐름은 어떻게 될지, 얼마나 log를 생성할지 정해야함.
+- 내부적으로 객체를 관리하기 쉬운 형식을 정할 것인지 알아야 함.
+- 만약 에러가 난다면 어떻게 처리할 것인지 알아야 함.
+- 출력되는 데이터 타입은 어떻게 되는지 알아야 함.
+- 변수명, 함수명은 어떤 형식을 취할 것인지 정해야함. 
 
 
 Email: lukedonghui@gmail.com
