@@ -11,8 +11,9 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 
 ## 2025 Plan
 1. AMuReDoTrade project - [In Private Repository]
-    - Algorithm Trading with AI (from 2024)
+    - Algorithm Trading
     - Build HFT
+    - In Upbit, Bithumb, Coinone, Binance... 
 2. Trading
     - Arbitrage
     - Stat-Arb
