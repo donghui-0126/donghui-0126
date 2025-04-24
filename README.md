@@ -4,20 +4,29 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 
 ## Interest
 
-- Algorithm Trading with AI
-- Constuct Algorithm Trading Platform
+- Algorithm Trading
+- Constuct HFT Platform
   
 <b>KeyWord: AI, Algorithm-Trading, Data-Analysis, HFT </b>
 
 ## 2025 Plan
-1. AI4Trading project - [In Private Repository - AI4Trading](https://github.com/donghui-0126/AI4Trading)
+1. AMuReDoTrade project - [In Private Repository]
     - Algorithm Trading with AI (from 2024)
-    - Trading 5 symbols on Binance (from 2024)
-    - HFT with AI
-      
-2. Immigration Rust to Julia
-   - From 2025, I chose Julia over Rust because I thought Rust would have difficulties with extensibility.
-   - [In Private Repository - Hello-Julia-World](https://github.com/donghui-0126/Hello-Julia-World)
+    - Build HFT
+2. Trading
+    - Arbitrage
+    - Stat-Arb
+    - Market Making
+    - Build My Own Research Pipeline 
+3. Study C++
+  - Build custom Websocket/Rest Library
+  - Becoming a c++ Professional 
+4. Study BlockChain
+  - Mev
+  - Arbitrage
+  - Defi
+  - Smart Contract
+  - Rust, Solidity.. <- I think If i'm good at cpp, i could Rust well 
 
 
 ## Project
