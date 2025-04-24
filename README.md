@@ -19,14 +19,14 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
     - Market Making
     - Build My Own Research Pipeline 
 3. Study C++
-  - Build custom Websocket/Rest Library
-  - Becoming a c++ Professional 
+    - Build custom Websocket/Rest Library
+    - Becoming a c++ Professional 
 4. Study BlockChain
-  - Mev
-  - Arbitrage
-  - Defi
-  - Smart Contract
-  - Rust, Solidity.. <- I think If i'm good at cpp, i could Rust well 
+    - Mev
+    - Arbitrage
+    - Defi
+    - Smart Contract
+    - Rust, Solidity.. <- I think If i'm good at cpp, i could Rust well 
 
 
 ## Project
