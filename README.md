@@ -13,7 +13,7 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 1. AMuReDoTrade project - [In Private Repository]
     - Algorithm Trading
     - Build HFT
-    - In Upbit, Bithumb, Coinone, Binance... 
+    - In Upbit, Bithumb, Coinone, Binance... Tuple{_OrderInfo, AbstractExchange}
 2. Trading
     - Arbitrage
     - Stat-Arb
@@ -86,7 +86,8 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 - 내부적으로 객체를 관리하기 쉬운 형식을 정할 것인지 알아야 함.
 - 만약 에러가 난다면 어떻게 처리할 것인지 알아야 함.
 - 변수명, 함수명은 어떤 형식을 취할 것인지 정해야함.
-- 같은 단계의 객체가 수정된다면 side effect를 꼭 고려해야함. (항상 TODO에 남기거나 해당 부분에 대해서 commit을 단위별로 하기?) 
+- 같은 단계의 객체가 수정된다면 side effect를 꼭 고려해야함. (항상 TODO에 남기거나 해당 부분에 대해서 commit을 단위별로 하기?)
+- 내가 타협한 부분을 정확히 메모하고 해당 부분으로 발생할 Effect를 명확히 인식하고 코딩하기 (타협한 이유와 해당 부분으로 발생할 장/단점이 모두 있어야함)
 
 
 Email: lukedonghui@gmail.com
