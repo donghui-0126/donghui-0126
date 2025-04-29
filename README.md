@@ -88,7 +88,8 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 - 변수명, 함수명은 어떤 형식을 취할 것인지 정해야함.
 - 같은 단계의 객체가 수정된다면 side effect를 꼭 고려해야함. (항상 TODO에 남기거나 해당 부분에 대해서 commit을 단위별로 하기?)
 - 내가 타협한 부분을 정확히 메모하고 해당 부분으로 발생할 Effect를 명확히 인식하고 코딩하기 (타협한 이유와 해당 부분으로 발생할 장/단점이 모두 있어야함)
-
+- FSM 쓸거면 쓰기전에 잘 정리하고 쓰자
+- 콜백쓸거면... 
 
 Email: lukedonghui@gmail.com
 
