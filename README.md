@@ -90,6 +90,8 @@ I'm interested in Algorithm Trading, AI, Data Analysis, Julia, Rust and passiona
 - 내가 타협한 부분을 정확히 메모하고 해당 부분으로 발생할 Effect를 명확히 인식하고 코딩하기 (타협한 이유와 해당 부분으로 발생할 장/단점이 모두 있어야함)
 - FSM 쓸거면 쓰기전에 잘 정리하고 쓰자
 - 콜백은 성능이 필요하다면 지양하자(굳이 함수콜 하기보다는 바로 실행하기) 차라리 코루틴을 고려해보자
+- 넘어간 버그는 반드시 발생한다. 
+
 
 Email: lukedonghui@gmail.com
 
