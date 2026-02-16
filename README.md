@@ -21,8 +21,16 @@ Julia로 알파 리서치 파이프라인을 만들고, 시그널을 발굴하�
 
 **Julia 엔지니어링**
 - GC가 있는 언어에서의 성능 최적화 경험 - `@view`, `@inbounds`, pre-allocation, 심볼별 배치 처리 후 `GC.gc()` 호출 등 메모리 관리 패턴 적용
-- Julia 패키지 한계를 DLL(`ccall`)로 우회하여 문제를 해결한 경험
+- Julia 패키지 한계를 DLL(`ccall`)로 우회하여 문제를 해결한 경험 — 이후 이 경험이 OMS-v2 Rust 마이그레이션의 동기가 됨
 - Julia 멀티스레딩(`Threads.@threads`, `@spawn`) 기반 병렬 연산 파이프라인 구축
+
+**Rust 시스템 엔지니어링**
+- Julia + Rust DLL 하이브리드 OMS를 순수 Rust로 마이그레이션 (FFI 경계 제거, GC 압박 해소)
+- 27개 크레이트 Cargo workspace, 211개 테스트, 0 warnings
+- 11개 거래소 WebSocket/REST 통합 (빗썸, 업비트, 코인원, 바이낸스, 바이비트, OKX, 비트겟 등)
+- 거래소별 상이한 인증 체계 구현 (HS256/HS512 JWT, HMAC-SHA256/SHA512 헤더, 리슨 키)
+- Tick-to-trade pipeline: **p50 4.23us, 218K tps** (117개 온라인 피쳐 연산 포함)
+- zero-alloc 주문 상태머신 (~50개 전이), `simd-json` 고속 파싱, `DoubleBuffer` lock-free read
 
 **Claude Code 기반 개발**
 - Claude Code(AI agent)를 활용한 데이터 분석 및 리서치 인프라 구축
@@ -35,13 +43,13 @@ Julia로 알파 리서치 파이프라인을 만들고, 시그널을 발굴하�
 
 ## Tech Stack
 
-**Core:** Julia (primary), Python (visualization)
+**Core:** Julia (alpha research), Rust (execution infra), Python (visualization)
 
-**Data:** Polars, Parquet, ClickHouse, DataFrames.jl
+**Data:** Polars, Parquet, ClickHouse, Arrow, DataFrames.jl
 
 **Analysis:** Newey-West HAC, rolling quantiles, EMA, cross-sectional rank/percentile normalization, triple-barrier
 
-**Infra:** WSL, tmux, Streamlit, Claude Code
+**Infra:** tokio, WSL, tmux, Streamlit, Claude Code
 
 ## Current Projects
 
@@ -50,6 +58,7 @@ Julia로 알파 리서치 파이프라인을 만들고, 시그널을 발굴하�
 | [amuredo-EDA](https://github.com/donghui-0126/amuredo-EDA) | Alpha research & backtest tooling - signal screening, path analysis, Streamlit dashboard | Julia, Python |
 | [amuredo-alphago](https://github.com/donghui-0126/amuredo-alphago) | Alpha factory platform - 1D/2D alpha screening, cross-sectional analysis, rolling ML | Julia, Python |
 | [amuredo-StrategyStore](https://github.com/donghui-0126/amuredo-StrategyStore) | Strategy storage & management | Julia |
+| amuredo-OMS-v2 | Pure Rust OMS - 27 crates, 11 exchanges, p50 4.23us tick-to-trade | Rust, Private |
 | AMuReDoTrade | Live trading system - multi-exchange execution (Binance, Upbit, Bithumb, Coinone) | Private |
 
 ## Research Projects
